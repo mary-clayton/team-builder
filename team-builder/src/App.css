@@ -1,0 +1,43 @@
+.App {
+  background: #F3F1F1;
+  width: 1440px;
+  height: 900px;
+}
+
+.navbar {
+  background-color: #48A05B;
+  padding: 0% 0% 0% 2% !important;
+  height: 4rem;
+}
+.logo {
+  font-size: 2.5rem !important;
+  font-family: 'Passero One';
+  color: white !important;
+  margin-right: 63rem !important;
+}
+.fa-2x {
+  color: white;
+}
+.items {
+  display: flex;
+}
+
+.teamcards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.teamcard {
+  width: 235px;
+height: 295px;
+background: #FFFFFF;
+border: 2px solid #000000;
+box-sizing: border-box;
+margin: 2% 4%;
+}
+.bodycard {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
